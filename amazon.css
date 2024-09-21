@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(78, 169, 192);
+    font-family: sans-serif;
+}
+
+.table1{
+    display: flex;
+    padding: 2px; color: #e5e1e1;
+    margin-top: 0%;
+    height: 50px;
+    width: 1600px;
+    
+}
+
+.table2{
+    padding-bottom: 20px;
+    word-spacing: 30px;
+}
